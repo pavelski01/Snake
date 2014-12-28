@@ -1,6 +1,6 @@
 snake
 =====
 
-simple game
+Description: simple game
 
 Needs: Windows operating system
