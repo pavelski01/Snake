@@ -1,5 +1,5 @@
-snake
-=====
+SnakeProject
+============
 
 Description: Simple game
 
