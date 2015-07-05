@@ -1,6 +1,5 @@
 SnakeProject
 ============
 
-Description: Simple game (scholar)
-
-Needs: Windows operating system
+Description: Simple game (scholar)  
+Needs: Windows operating system  
